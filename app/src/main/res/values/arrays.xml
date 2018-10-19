@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_relevance_label</item>
+        <item>@string/settings_order_by_most_recent_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_relevance_value</item>
+        <item>@string/settings_order_by_most_recent_value</item>
+    </string-array>
+
+    <string-array name="settings_order_date_labels">
+        <item>@string/settings_order_date_published_label</item>
+        <item>@string/settings_order_date_last_modified_label</item>
+    </string-array>
+
+    <string-array name="settings_order_date_values">
+        <item>@string/settings_order_date_published_value</item>
+        <item>@string/settings_order_date_last_modified_value</item>
+    </string-array>
+
+    <string-array name="settings_show_thumbnail_labels">
+        <item>@string/settings_show_thumbnail_true_label</item>
+        <item>@string/settings_show_thumbnail_false_label</item>
+    </string-array>
+
+    <string-array name="settings_show_thumbnail_values">
+        <item>@string/settings_show_thumbnail_true_value</item>
+        <item>@string/settings_show_thumbnail_false_value</item>
+    </string-array>
+</resources>

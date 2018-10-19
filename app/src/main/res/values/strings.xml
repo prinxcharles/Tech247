@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tech 24/7</string>
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news_feed">No tech feed found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Tech Feed Settings</string>
+    <!-- Strings For Thumbnail Preference [CHAR LIMIT=30] -->
+    <string name="settings_show_thumbnail_label">Show Thumbnail</string>
+    <string name="settings_show_thumbnail_key" translatable="false">show-thumbnail</string>
+    <string name="settings_show_thumbnail_default" translatable="false">Yes</string>
+
+    <!-- Label for show thumbnail option [CHAR LIMIT=20] -->
+    <string name="settings_show_thumbnail_true_label">Yes</string>
+    <string name="settings_show_thumbnail_true_value" translatable="false">Yes</string>
+
+    <!-- Label for the hide thumbnail option [CHAR LIMIT=20] -->
+    <string name="settings_show_thumbnail_false_label">No</string>
+    <string name="settings_show_thumbnail_false_value" translatable="false">No</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_relevance_value</string>
+
+    <!-- Label for order-by relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <!-- Strings For order-date preference Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_date_label">Order Date</string>
+    <string name="settings_order_date_key" translatable="false">order-date</string>
+    <string name="settings_order_date_default" translatable="false">@string/settings_order_date_published_value</string>
+
+    <!-- Label for order date by last modified option [CHAR LIMIT=20] -->
+    <string name="settings_order_date_last_modified_label">Last Modified</string>
+    <string name="settings_order_date_last_modified_value" translatable="false">last-modified</string>
+
+    <!-- Label for order date by published date option [CHAR LIMIT=20] -->
+    <string name="settings_order_date_published_label">Published</string>
+    <string name="settings_order_date_published_value" translatable="false">published</string>
+</resources>
